@@ -78,7 +78,7 @@ Fortunately, you probably don't even need to know many specifics to develop solu
 * [Learn to code the hard way - A collection of coding tutorials focusing on  repetition of fundamentals](http://learncodethehardway.org/)
 
 ## Computer Science
-* [edX CS50 course - Intro to basic computer science and programming](tests/functional_tests/retailer/socal_data_tests.py)
+* [edX CS50 course - Intro to basic computer science and programming](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ## Testing
 * [The Three Rules of TDD by Robert (Uncle Bob) Martin](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
