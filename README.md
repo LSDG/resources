@@ -6,11 +6,19 @@ A living document and resource made available by member contributors to use as a
 
 
 ## Reddit
-
+* [/r/cs_questions](http://www.reddit.com/r/cs_questions)
 
 ## Books
 * [Clean Code by Robert C. Martin](http://amzn.com/0132350882)
+* [PragPub - Collection of tutorials & books covering a broad range of languages](https://pragprog.com/)
+* [The Pragmatic Programmer by Hunt * Thomas](http://www.amzn.com/020161622X?tag=kingbin-20)
+* [Programming Pearls by John Bentley](http://www.amzn.com/0201657880?tag=kingbin-20)
 * [Javascript: The Good Parts by Douglas Crockford](http://amzn.com/0596517742)
+
+## Videos
+* [Confreaks.tv (free)](http://confreaks.tv/)
+* [Pluralsight (paid)](http://www.pluralsight.com/)
+* [iTunesU Ex: iOS8 w swift (free)](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
 ## Languages
 
