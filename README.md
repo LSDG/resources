@@ -75,3 +75,26 @@ Fortunately, you probably don't even need to know many specifics to develop solu
 ## Testing
 * [The Three Rules of TDD by Robert (Uncle Bob) Martin](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
 
+## Tools
+
+### the shell
+While there are a lot of good things about using a graphical windowing system to do stuff with computers, it is usually way, way faster to do some tasks by interacting with the operating system in plain text:
+
+* [Learn the CLI the Hard Way](http://cli.learncodethehardway.org/book/)
+
+### SSH
+
+Once you have an idea of what you can do with the command line, you need a good way to do it in other places.  SSH is a great tool that lets you make a secure connection to other computers:
+
+* [Digital Oceans's SSH Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
+* [Liquid Web's SSH Tutorial](http://www.liquidweb.com/kb/new-user-tutorial-basic-ssh/)
+* [Siteground's SSH Tutorial](https://www.siteground.com/tutorials/ssh/)
+
+### Source Control Management
+
+Avoid the chaos that is multiple folks working on a bunch of files.  Mantian a clear history of the changes you've made.  USE SOURCE CONTROL!
+
+* [an interactive git tutorial](https://try.github.io/levels/1/challenges/1)
+* [another set of git tuts](https://www.atlassian.com/git/)
+* [git docs](http://git-scm.com/)
+* [Mercurial docs](http://mercurial.selenic.com/)
