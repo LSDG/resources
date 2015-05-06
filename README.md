@@ -80,14 +80,15 @@ Fortunately, you probably don't even need to know many specifics to develop solu
 ### the shell
 While there are a lot of good things about using a graphical windowing system to do stuff with computers, it is usually way, way faster to do some tasks by interacting with the operating system in plain text:
 
-[Learn the CLI the Hard Way](http://cli.learncodethehardway.org/book/)
+* [Learn the CLI the Hard Way](http://cli.learncodethehardway.org/book/)
 
 ### SSH
 
 Once you have an idea of what you can do with the command line, you need a good way to do it in other places.  SSH is a great tool that lets you make a secure connection to other computers:
-[Digital Oceans's SSH Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
-[Liquid Web's SSH Tutorial](http://www.liquidweb.com/kb/new-user-tutorial-basic-ssh/)
-[Siteground's SSH Tutorial](https://www.siteground.com/tutorials/ssh/)
+
+* [Digital Oceans's SSH Tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
+* [Liquid Web's SSH Tutorial](http://www.liquidweb.com/kb/new-user-tutorial-basic-ssh/)
+* [Siteground's SSH Tutorial](https://www.siteground.com/tutorials/ssh/)
 
 ### Source Control Management
 
