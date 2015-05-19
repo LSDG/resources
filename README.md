@@ -28,6 +28,11 @@ A living document and resource made available by member contributors to use as a
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ### HTML & CSS
+* [w3schools.com](http://www.w3schools.com/)
+* [CSS Zen Garden](http://www.csszengarden.com)
+* [Can I Use?](http://caniuse.com)
+* [Bootstrap](http://getbootstrap.com)
+
 * [WTF, HTML and CSS? - Reasons HTML and CSS might make you say wat](http://wtfhtmlcss.com/)
 * [Code Guide by @mdo, designer of twitter bootstrap](http://codeguide.co/)
 
@@ -36,8 +41,17 @@ It is possible to generate very nice, complex websites by using a script to buil
 * [Here's a nice Ruby-based tool: Jekyll](http://jekyllrb.com/)
 * [Here's a nice JS-based tool: HarpJS](http://harpjs.com/)
 
-### C-Sharp
-*
+## Microsoft .NET
+* [.NET on GitHub](https://github.com/microsoft/dotnet)
+
+### ASP.NET
+* [The Official ASP.NET Website](http://www.asp.net)
+* [ASP.NET 5](http://www.asp.net/vnext)
+* [ASP.NET 5 Repository](https://github.com/aspnet/home)
+
+### Other
+* [Entity Framework](http://www.asp.net/entity-framework)
+* [Open Web Interface for .NET (OWIN)](http://owin.org/)
 
 ## Specializations
 
