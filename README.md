@@ -20,6 +20,11 @@ A living document and resource made available by member contributors to use as a
 * [Pluralsight (paid)](http://www.pluralsight.com/)
 * [iTunesU Ex: iOS8 w swift (free)](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 
+## Interactive Challenges
+* [Hackerrank - Competitive coding and recruiting](https://www.hackerrank.com/)
+* [CodinGame - Solve problems with programming](https://www.codingame.com)
+* [CodeChef - From complete beginner to expert, interactive programming challenges for everyone!](https://www.codechef.com/)
+
 ## Languages
 
 ### Javascript
