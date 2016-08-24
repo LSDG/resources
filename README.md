@@ -25,6 +25,11 @@ A living document and resource made available by member contributors to use as a
 * [CodinGame - Solve problems with programming](https://www.codingame.com)
 * [CodeChef - From complete beginner to expert, interactive programming challenges for everyone!](https://www.codechef.com/)
 
+## Interactive Tutorials
+* [Khan Academy - Computer Programming (free)](https://www.khanacademy.org/computing/computer-programming)
+* [Khan Academy - Computer Science (free)](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy Hour of Code - Got an hour? Learn to code! (free)](https://www.khanacademy.org/hourofcode)
+
 ## Languages
 
 ### Javascript
