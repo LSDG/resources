@@ -124,7 +124,7 @@ Once you have an idea of what you can do with the command line, you need a good 
 
 ### Source Control Management
 
-Avoid the chaos that is multiple folks working on a bunch of files.  Mantian a clear history of the changes you've made.  USE SOURCE CONTROL!
+Avoid the chaos that is multiple folks working on a bunch of files.  Maintain a clear history of the changes you've made.  USE SOURCE CONTROL!
 
 * [an interactive git tutorial](https://try.github.io/levels/1/challenges/1)
 * [another set of git tuts](https://www.atlassian.com/git/)
