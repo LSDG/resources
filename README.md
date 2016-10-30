@@ -81,7 +81,7 @@ It is possible to generate very nice, complex websites by using a script to buil
 Web Dev is a really broad topic, but it can be a great way into software development for a lot of reasons:
 
 * it touches on many parts of what makes computers useful to humans,
-* there are so many pre-existing frameworks and tools that it is fast to come up with useful sfotware and only touch on things that are unique to your task
+* there are so many pre-existing frameworks and tools that it is fast to come up with useful software and only touch on things that are unique to your task
 * there is a high demand for people with even minimal skills
 * much of the technology (html, css, JS) is highly fault-tolerant
 
