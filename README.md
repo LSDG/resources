@@ -85,7 +85,7 @@ Web Dev is a really broad topic, but it can be a great way into software develop
 * there is a high demand for people with even minimal skills
 * much of the technology (html, css, JS) is highly fault-tolerant
 
-With that said, there are a lot of routes to go here.  A minimal set of things to learn would be some kind of web framework that renders the data in a way that can be used by web browsers, as well as some ways of thinking about that development.  Ultimately, all you're doing is generating a document that is laoded by the browser... here's an [overview of the whole process](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response).
+With that said, there are a lot of routes to go here.  A minimal set of things to learn would be some kind of web framework that renders the data in a way that can be used by web browsers, as well as some ways of thinking about that development.  Ultimately, all you're doing is generating a document that is loaded by the browser... here's an [overview of the whole process](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response).
 
 Fortunately, you probably don't even need to know many specifics to develop solutions for the web... a lot of frameworks will do things for you.  Here are some framework guides:
 
