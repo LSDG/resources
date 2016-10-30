@@ -109,7 +109,7 @@ Fortunately, you probably don't even need to know many specifics to develop solu
 
 ## Tools
 
-### the shell
+### The Shell
 While there are a lot of good things about using a graphical windowing system to do stuff with computers, it is usually way, way faster to do some tasks by interacting with the operating system in plain text:
 
 * [Learn the CLI the Hard Way](http://cli.learncodethehardway.org/book/)
