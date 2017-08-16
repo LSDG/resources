@@ -24,6 +24,7 @@ A living document and resource made available by member contributors to use as a
 * [Hackerrank - Competitive coding and recruiting](https://www.hackerrank.com/)
 * [CodinGame - Solve problems with programming](https://www.codingame.com)
 * [CodeChef - From complete beginner to expert, interactive programming challenges for everyone!](https://www.codechef.com/)
+* [Elevator Saga - Your task is to program the movement of elevators, by writing a program in JavaScript.](http://play.elevatorsaga.com/)
 
 ## Interactive Tutorials
 * [Khan Academy - Computer Programming (free)](https://www.khanacademy.org/computing/computer-programming)
