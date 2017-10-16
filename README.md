@@ -4,7 +4,6 @@ A living document and resource made available by member contributors to use as a
 
 ## Twitter 
 
-
 ## Reddit
 * [/r/cs_questions](http://www.reddit.com/r/cs_questions)
 
@@ -19,6 +18,7 @@ A living document and resource made available by member contributors to use as a
 * [Confreaks.tv (free)](http://confreaks.tv/)
 * [Pluralsight (paid)](http://www.pluralsight.com/)
 * [iTunesU Ex: iOS8 w swift (free)](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+* [funfunfunction (free)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
 
 ## Interactive Challenges
 * [Hackerrank - Competitive coding and recruiting](https://www.hackerrank.com/)
@@ -30,6 +30,10 @@ A living document and resource made available by member contributors to use as a
 * [Khan Academy - Computer Programming (free)](https://www.khanacademy.org/computing/computer-programming)
 * [Khan Academy - Computer Science (free)](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy Hour of Code - Got an hour? Learn to code! (free)](https://www.khanacademy.org/hourofcode)
+
+## GitHub
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [OSSU/computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 
 ## Languages
 
@@ -65,7 +69,6 @@ It is possible to generate very nice, complex websites by using a script to buil
 * [Open Web Interface for .NET (OWIN)](http://owin.org/)
 
 ## Specializations
-
 
 ### Mobile Development
 *
