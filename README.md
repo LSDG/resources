@@ -8,7 +8,7 @@ A living document and resource made available by member contributors to use as a
 * [/r/cs_questions](http://www.reddit.com/r/cs_questions)
 
 ## Student Resources
-* [GitHub Student Developer Pack](https://education.github.com/pack)
+* [GitHub Student Developer Pack](https://education.github.com/pack) - The best developer tools, free for students.
 
 ## Books
 * [Clean Code by Robert C. Martin](http://amzn.com/0132350882)
