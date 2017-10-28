@@ -18,12 +18,14 @@ A living document and resource made available by member contributors to use as a
 * [Javascript: The Good Parts by Douglas Crockford](http://amzn.com/0596517742)
 
 ## Videos
+* [egghead.io (paid)](https://egghead.io/) - Concise courses for badass web developers.
 * [Confreaks.tv (free)](http://confreaks.tv/)
 * [Pluralsight (paid)](http://www.pluralsight.com/)
 * [iTunesU Ex: iOS8 w swift (free)](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
 * [funfunfunction (free)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
 
 ## Interactive Challenges
+* [CodeFights](https://codefights.com/) - CodeFights is the most fun way to practice your programming skills.
 * [Hackerrank - Competitive coding and recruiting](https://www.hackerrank.com/)
 * [CodinGame - Solve problems with programming](https://www.codingame.com)
 * [CodeChef - From complete beginner to expert, interactive programming challenges for everyone!](https://www.codechef.com/)
