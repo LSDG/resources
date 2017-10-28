@@ -4,7 +4,6 @@ A living document and resource made available by member contributors to use as a
 
 ## Twitter 
 
-
 ## Reddit
 * [/r/cs_questions](http://www.reddit.com/r/cs_questions)
 
@@ -19,6 +18,22 @@ A living document and resource made available by member contributors to use as a
 * [Confreaks.tv (free)](http://confreaks.tv/)
 * [Pluralsight (paid)](http://www.pluralsight.com/)
 * [iTunesU Ex: iOS8 w swift (free)](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+* [funfunfunction (free)](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/)
+
+## Interactive Challenges
+* [Hackerrank - Competitive coding and recruiting](https://www.hackerrank.com/)
+* [CodinGame - Solve problems with programming](https://www.codingame.com)
+* [CodeChef - From complete beginner to expert, interactive programming challenges for everyone!](https://www.codechef.com/)
+* [Elevator Saga - Your task is to program the movement of elevators, by writing a program in JavaScript.](http://play.elevatorsaga.com/)
+
+## Interactive Tutorials
+* [Khan Academy - Computer Programming (free)](https://www.khanacademy.org/computing/computer-programming)
+* [Khan Academy - Computer Science (free)](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy Hour of Code - Got an hour? Learn to code! (free)](https://www.khanacademy.org/hourofcode)
+
+## GitHub
+* [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
+* [OSSU/computer-science](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
 
 ## Languages
 
@@ -28,6 +43,11 @@ A living document and resource made available by member contributors to use as a
 * [Eloquent Javascript](http://eloquentjavascript.net/)
 
 ### HTML & CSS
+* [w3schools.com](http://www.w3schools.com/)
+* [CSS Zen Garden](http://www.csszengarden.com)
+* [Can I Use?](http://caniuse.com)
+* [Bootstrap](http://getbootstrap.com)
+
 * [WTF, HTML and CSS? - Reasons HTML and CSS might make you say wat](http://wtfhtmlcss.com/)
 * [Code Guide by @mdo, designer of twitter bootstrap](http://codeguide.co/)
 
@@ -36,11 +56,19 @@ It is possible to generate very nice, complex websites by using a script to buil
 * [Here's a nice Ruby-based tool: Jekyll](http://jekyllrb.com/)
 * [Here's a nice JS-based tool: HarpJS](http://harpjs.com/)
 
-### C-Sharp
-*
+## Microsoft .NET
+* [.NET on GitHub](https://github.com/microsoft/dotnet)
+
+### ASP.NET
+* [The Official ASP.NET Website](http://www.asp.net)
+* [ASP.NET 5](http://www.asp.net/vnext)
+* [ASP.NET 5 Repository](https://github.com/aspnet/home)
+
+### Other
+* [Entity Framework](http://www.asp.net/entity-framework)
+* [Open Web Interface for .NET (OWIN)](http://owin.org/)
 
 ## Specializations
-
 
 ### Mobile Development
 *
@@ -57,11 +85,11 @@ It is possible to generate very nice, complex websites by using a script to buil
 Web Dev is a really broad topic, but it can be a great way into software development for a lot of reasons:
 
 * it touches on many parts of what makes computers useful to humans,
-* there are so many pre-existing framewaorks and tools that it is fast to come up with useful sfotware and only touch on things that are unique to your task
+* there are so many pre-existing frameworks and tools that it is fast to come up with useful software and only touch on things that are unique to your task
 * there is a high demand for people with even minimal skills
 * much of the technology (html, css, JS) is highly fault-tolerant
 
-With that said, there are a lot of routes to go here.  A minimal set of things to learn would be some kind of web framework that renders the data in a way that can be used by web browsers, as well as some ways of thinking about that development.  Ultimately, all you're doing is generating a document that is laoded by the browser... here's an [overview of the whole process](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response).
+With that said, there are a lot of routes to go here.  A minimal set of things to learn would be some kind of web framework that renders the data in a way that can be used by web browsers, as well as some ways of thinking about that development.  Ultimately, all you're doing is generating a document that is loaded by the browser... here's an [overview of the whole process](http://www.slashroot.in/httphypertext-transfer-protocol-request-and-response).
 
 Fortunately, you probably don't even need to know many specifics to develop solutions for the web... a lot of frameworks will do things for you.  Here are some framework guides:
 
@@ -85,7 +113,7 @@ Fortunately, you probably don't even need to know many specifics to develop solu
 
 ## Tools
 
-### the shell
+### The Shell
 While there are a lot of good things about using a graphical windowing system to do stuff with computers, it is usually way, way faster to do some tasks by interacting with the operating system in plain text:
 
 * [Learn the CLI the Hard Way](http://cli.learncodethehardway.org/book/)
@@ -100,7 +128,7 @@ Once you have an idea of what you can do with the command line, you need a good 
 
 ### Source Control Management
 
-Avoid the chaos that is multiple folks working on a bunch of files.  Mantian a clear history of the changes you've made.  USE SOURCE CONTROL!
+Avoid the chaos that is multiple folks working on a bunch of files.  Maintain a clear history of the changes you've made.  USE SOURCE CONTROL!
 
 * [an interactive git tutorial](https://try.github.io/levels/1/challenges/1)
 * [another set of git tuts](https://www.atlassian.com/git/)
