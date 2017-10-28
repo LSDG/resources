@@ -7,6 +7,9 @@ A living document and resource made available by member contributors to use as a
 ## Reddit
 * [/r/cs_questions](http://www.reddit.com/r/cs_questions)
 
+## Student Resources
+* [GitHub Student Developer Pack](https://education.github.com/pack)
+
 ## Books
 * [Clean Code by Robert C. Martin](http://amzn.com/0132350882)
 * [PragPub - Collection of tutorials & books covering a broad range of languages](https://pragprog.com/)
