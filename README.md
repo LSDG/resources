@@ -76,7 +76,10 @@ It is possible to generate very nice, complex websites by using a script to buil
 ## Specializations
 
 ### Mobile Development
-*
+
+#### Android Development
+* [Official Getting Started Guide by Google](https://developer.android.com/training/index.html)
+* [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 
 ### Database
 * [Oracle's intro to relational databases like mySQL](https://docs.oracle.com/javase/tutorial/jdbc/overview/database.html)
