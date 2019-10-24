@@ -18,6 +18,7 @@ A living document and resource made available by member contributors to use as a
 * [Javascript: The Good Parts by Douglas Crockford](http://amzn.com/0596517742)
 
 ## Videos
+* [TECHLEAD (free)](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw) - The greatest tech lead of all time!
 * [egghead.io (paid)](https://egghead.io/) - Concise courses for badass web developers.
 * [Confreaks.tv (free)](http://confreaks.tv/)
 * [Pluralsight (paid)](http://www.pluralsight.com/)
