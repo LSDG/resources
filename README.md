@@ -2,8 +2,9 @@
 
 A living document and resource made available by member contributors to use as a go-to list of materials for software development.
 
-## Twitter 
+## Places hiring
 
+### [Online job resources](./OnlineJobResources.md)
 
 ## Reddit
 * [/r/cs_questions](http://www.reddit.com/r/cs_questions)
